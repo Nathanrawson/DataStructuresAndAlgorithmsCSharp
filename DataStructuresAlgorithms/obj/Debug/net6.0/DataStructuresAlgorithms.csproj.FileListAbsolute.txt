@@ -1,0 +1,15 @@
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\bin\Debug\net6.0\DataStructuresAlgorithms.exe
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\bin\Debug\net6.0\DataStructuresAlgorithms.deps.json
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\bin\Debug\net6.0\DataStructuresAlgorithms.runtimeconfig.json
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\bin\Debug\net6.0\DataStructuresAlgorithms.dll
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\bin\Debug\net6.0\DataStructuresAlgorithms.pdb
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\obj\Debug\net6.0\DataStructuresAlgorithms.csproj.AssemblyReference.cache
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\obj\Debug\net6.0\DataStructuresAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\obj\Debug\net6.0\DataStructuresAlgorithms.AssemblyInfoInputs.cache
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\obj\Debug\net6.0\DataStructuresAlgorithms.AssemblyInfo.cs
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\obj\Debug\net6.0\DataStructuresAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\obj\Debug\net6.0\DataStructuresAlgorithms.dll
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\obj\Debug\net6.0\refint\DataStructuresAlgorithms.dll
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\obj\Debug\net6.0\DataStructuresAlgorithms.pdb
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\obj\Debug\net6.0\DataStructuresAlgorithms.genruntimeconfig.cache
+C:\Users\NathanRawson\source\repos\DataStructuresAlgorithms\DataStructuresAlgorithms\obj\Debug\net6.0\ref\DataStructuresAlgorithms.dll
