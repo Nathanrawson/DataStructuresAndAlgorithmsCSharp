@@ -8,8 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DataStructures\Arrays\" />
-    <Folder Include="DataStructures\Dictionarys\" />
     <Folder Include="DataStructures\Queues\" />
     <Folder Include="DataStructures\Stacks\" />
     <Folder Include="Algorithms\" />

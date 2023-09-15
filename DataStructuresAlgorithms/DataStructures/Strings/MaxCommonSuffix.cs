@@ -2,6 +2,7 @@
 {
     public static class MaxCommonSuffix
     {
+        //This is a simple backward traversal solution
         public static string Get(string s1, string s2)
         {
             int point1 = s1.Length;
